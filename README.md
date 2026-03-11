@@ -18,7 +18,7 @@ The repository consists primarily of a few scripts and accompanying text files:
 ## 🛠️ Prerequisites
 
 - **R** (version 4.0 or higher recommended).
-- **JAGS** (Just Another Gibbs Sampler) for Bayesian modeling (install from [mcmc-jags.sourceforge.io](https://mcmc-jags.sourceforge.io)).
+- **JAGS** (Just Another Gibbs Sampler version 4.3.1) for Bayesian modeling (install from [mcmc-jags.sourceforge.io](https://sourceforge.net/projects/mcmc-jags/files/)).
 - Required R packages (install from CRAN):
 
   ```r
@@ -60,5 +60,6 @@ Please cite the associated manuscript or technical report when using these metho
 > *Integration of aggregated data in causally interpretable meta-analysis by inverse weighting*
 > Vo, T. T., Le, T. T. K., Afach, S., & Vansteelandt, S.
 > Submitted manuscript
+
 
 ---

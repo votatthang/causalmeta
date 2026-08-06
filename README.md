@@ -57,9 +57,9 @@ The repository consists primarily of a few scripts and accompanying text files:
 
 Please cite the associated manuscript or technical report when using these methods:
 
-> *Integration of aggregated data in causally interpretable meta-analysis by inverse weighting*
 > Vo, T. T., Le, T. T. K., Afach, S., & Vansteelandt, S.
-> Submitted manuscript
+> *Integration of aggregated data in causally interpretable meta-analysis by inverse weighting*
+> Biometrics 82.2 (2026): ujag107.
 
 
 ---
